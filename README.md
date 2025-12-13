@@ -86,11 +86,3 @@ If you're getting started and need assistance or face any bugs, join our active 
 and many more, including code architecture and reusability.
 
 
-
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/converso-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.jpg" alt="Project Banner">
-</a>
